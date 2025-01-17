@@ -44,6 +44,7 @@ class MyHomePage extends StatelessWidget {
               decoration: InputDecoration(
                 labelText: 'Username',
                 border: OutlineInputBorder(),
+                
               ),
             ),
             SizedBox(height: 16),
